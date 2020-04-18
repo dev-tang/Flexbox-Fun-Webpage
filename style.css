@@ -19,7 +19,7 @@ a {
 
 .hero {
 	min-height: 90vh;
-	background-image: url('/person-using-laptop-3201071.jpg');
+	background-image: url('person-using-laptop-3201071.jpg');
 	background-size: cover;
 	background-position: center;
 	color: white;
